@@ -1,0 +1,12 @@
+# See root .gitignore for global ignores
+.env
+
+# Node-specific
+node_modules/
+npm-debug.log*
+
+# MongoDB
+*.log
+
+# Uploads
+uploads/
